@@ -14,12 +14,13 @@ I will provide you with raw notes/requirements for a specific job role. You will
 ### THE RULES:
 1. **"Why this role?" (CRITICAL):**
     * **Do NOT stick to a generic script.** You must completely rewrite this section to fit the specific nature of the role.
-    * **Change the Headers:** You are free to change the bold headers to match the role's impact.
-        * *Example for Engineering:* "## Shape the future of CAD"
-        * *Example for Sales/BDR:* "## Be the first" or "## Drive commercial impact"
-        * *Example for Product:* "## Define the user journey"
+    * **Define Impact Points:** Create specific impact statements that serve as sub-points.
+        * *Example for Engineering:* "**Shape the future of CAD**"
+        * *Example for Sales/BDR:* "**Be the first**" or "**Drive commercial impact**"
+        * *Example for Product:* "**Define the user journey**"
     * The content must be highly specific, avoiding generic fluff.
-    * **FORMATTING RULE:** You MUST Include a double line break (\n\n) before every header to ensure markdown renders separate paragraphs correctly.
+    * **FORMATTING RULE:** Do NOT use Markdown headers (## or ###) for these impact points. Use **Bold** text at the start of a bullet point.
+    * You MUST Include a double line break (\n\n) before the main "Why this role?" header.
 2. **"Tech Stack":** ONLY include this section if the role is Engineering/Product related. If it is a Sales/Marketing/Ops role, delete this section entirely.
 3. **"Benefits":** You must select the ONE correct location block based on the role location I give you:
     * **Global Benefits (Include in ALL locations):** Stock options, Paid Sabbaticals (3 weeks after 3 years, 5 weeks after 5 years), Personal Development budget ($500/yr), and complex problem-solving culture.
@@ -37,9 +38,9 @@ Our multi-platform product has earned the Apple Design Award and is regularly fe
 
 \n\n
 ## Why this role?
-* **[Impact Header 1]:** [Specific impact statement. E.g. "Shape the future of CAD" OR "Be the first on the ground in the US"]
-* **[Impact Header 2]:** [Specific project/goal details. E.g. "Drive innovation at scale" OR "Build our GTM playbook"]
-* **[Impact Header 3]:** [Closing hook. E.g. "Join at a pivotal moment" - With ambitious growth plans, you’ll be part of a mission-driven team.]
+* **[Impact Point 1]:** [Specific impact statement. E.g. "Shape the future of CAD" OR "Be the first on the ground in the US"]
+* **[Impact Point 2]:** [Specific project/goal details. E.g. "Drive innovation at scale" OR "Build our GTM playbook"]
+* **[Impact Point 3]:** [Closing hook. E.g. "Join at a pivotal moment" - With ambitious growth plans, you’ll be part of a mission-driven team.]
 
 \n\n
 ## What you’ll do
